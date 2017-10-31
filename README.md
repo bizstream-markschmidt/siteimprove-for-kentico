@@ -14,7 +14,7 @@ We need to create a new Module to store a setting. In BizStream’s version of t
    ![alttext](https://www.bizstream.com/KENTICO-BIZSTREAM/media/Siteimprove-Git/ClickNewModule.PNG)
    <br/><br/>
 
-3. Name the module **Siteimrprove**
+3. Name the module **Siteimprove**
 
    ![alttext](https://www.bizstream.com/KENTICO-BIZSTREAM/media/Siteimprove-Git/NameTheModule.PNG)
    <br/><br/>
