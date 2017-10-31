@@ -6,8 +6,9 @@ To get **Sitemprove** to work within your Kentico site, you have **two installat
 ## Option 1: Toolkit Extension Installation Instructions:
 If you have already have the **Toolkit for Kentico** installed, you can use this one-click installation option. If you do not have Toolkit for Kentico installed, what are you waiting for? **It's FREE** and allows you to easily install and upgrade extensions (just like this Siteimprove extension).
 
-<a href="https://www.youtube.com/watch?v=bVL35Jmoivo" target="_blank"><img src="http://img.youtube.com/vi/bVL35Jmoivo/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="360" border="10" /></a>
+**<a href="https://www.youtube.com/watch?v=bVL35Jmoivo" target="_blank">Watch the One-Click Installation Video</a>
+<br/><a href="https://www.youtube.com/watch?v=bVL35Jmoivo" target="_blank"><img src="http://img.youtube.com/vi/bVL35Jmoivo/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="360" border="10" /></a>**
 
 
 ## Option 2: Manual Installation Instructions:
