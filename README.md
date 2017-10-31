@@ -1,5 +1,11 @@
-# siteimprove-for-kentico
-## Installation Instructions:
+# Siteimprove Plugin for Kentico
+## Toolkit Installation Instructions:
+
+<a href="https://www.youtube.com/watch?v=bVL35Jmoivo" target="_blank"><img src="http://img.youtube.com/vi/bVL35Jmoivo/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="360" border="10" /></a>
+
+
+## Manual Installation Instructions:
 ### Create a new **Module**
 
 We need to create a new Module to store a setting. In BizStream’s version of the Extension, there are many more options and settings, but for this example, we will only go through what is absolutely needed.
